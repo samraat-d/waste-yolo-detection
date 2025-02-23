@@ -1,0 +1,6 @@
+Flask==2.3.2
+Pillow==10.0.0
+opencv-python==4.8.0.74
+ultralytics==8.0.137
+huggingface_hub==0.16.4
+Werkzeug==2.3.6
