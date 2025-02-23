@@ -13,7 +13,7 @@ Waste detection and classification is an AI-driven system that leverages deep le
 - **Model Evaluation:** Performance metrics include mAP (Mean Average Precision), precision, recall, and validation accuracy.
 
 Detailed Design
-
+![Detailed Design](static/Detailed_design.png)
 
 
 ## Installation & Setup
@@ -108,13 +108,7 @@ Detailed Design
 
 ### YOLO v10 Performance
 
-![YOLO v10 Performance](web_app/static/yolo_v10_perf)
-
-
-
-### YOLO v8 vs YOLO v10
-
-![Comparison Graph](web_app/static/comparison_graph.jpg)
+![YOLO v10 Performance](static/results_v10.png)
 
 
 
@@ -122,7 +116,7 @@ Detailed Design
 
 ### Web Application Interface
 
-![Flask Web App](web_app/static/frontend_image.jpg)
+![Flask Web App](static/UI.jpg)
 
 
 
